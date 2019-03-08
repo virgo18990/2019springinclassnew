@@ -1,0 +1,26 @@
+{
+  "name": "2019springinclassnew",
+  "version": "1.0.0",
+  "description": "This repository is created to fix bugs from 2019SpringInClass repository",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virgo18990/2019springinclassnew.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virgo18990/2019springinclassnew/issues"
+  },
+  "homepage": "https://github.com/virgo18990/2019springinclassnew#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
